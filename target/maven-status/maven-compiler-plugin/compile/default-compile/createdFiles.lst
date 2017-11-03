@@ -1,0 +1,7 @@
+domain/config/RestaurantRepository.class
+domain/service/Impl/RestaurantInfoServiceImpl.class
+domain/rest/RestaurantInfoRestController.class
+domain/service/RestaurantInfoService.class
+domain/config/RestaurantInfo.class
+domain/App/RestaurantInfoServiceApplication.class
+domain/config/Item.class
